@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CWeaponModelInfo__InitDataList>
+	<InitDatas>
+		<Item>
+		  <modelName>markomods-m4</modelName>
+		  <txdName>markomods-m4</txdName>
+		  <ptfxAssetName>NULL</ptfxAssetName>
+		  <lodDist value="75"/>
+		</Item>
+		<Item>
+		  <modelName>markomods-mag1</modelName>
+		  <txdName>markomods-m4-mags</txdName>
+		  <ptfxAssetName>NULL</ptfxAssetName>
+		  <lodDist value="75"/>
+		</Item>
+		<Item>
+		  <modelName>markomods-mag2</modelName>
+		  <txdName>markomods-m4-mags</txdName>
+		  <ptfxAssetName>NULL</ptfxAssetName>
+		  <lodDist value="75"/>
+		</Item>
+		<Item>
+		  <modelName>markomods-mag3</modelName>
+		  <txdName>markomods-m4-mags</txdName>
+		  <ptfxAssetName>NULL</ptfxAssetName>
+		  <lodDist value="75"/>
+		</Item>
+		<Item>
+		  <modelName>markomods-mag4</modelName>
+		  <txdName>markomods-m4-mags</txdName>
+		  <ptfxAssetName>NULL</ptfxAssetName>
+		  <lodDist value="75"/>
+		</Item>
+		<Item>
+		  <modelName>markomods-mag5</modelName>
+		  <txdName>markomods-m4-mags</txdName>
+		  <ptfxAssetName>NULL</ptfxAssetName>
+		  <lodDist value="75"/>
+		</Item>
+		<Item>
+		  <modelName>markomods-mag6</modelName>
+		  <txdName>markomods-m4-mags</txdName>
+		  <ptfxAssetName>NULL</ptfxAssetName>
+		  <lodDist value="75"/>
+		</Item>
+		<Item>
+		  <modelName>markomods-mag7</modelName>
+		  <txdName>markomods-m4-mags</txdName>
+		  <ptfxAssetName>NULL</ptfxAssetName>
+		  <lodDist value="75"/>
+		</Item>
+		<Item>
+		  <modelName>markomods-stock1</modelName>
+		  <txdName>markomods-m4-stocks</txdName>
+		  <ptfxAssetName>NULL</ptfxAssetName>
+		  <lodDist value="75"/>
+		</Item>
+		<Item>
+		  <modelName>markomods-stock2</modelName>
+		  <txdName>markomods-m4-stocks</txdName>
+		  <ptfxAssetName>NULL</ptfxAssetName>
+		  <lodDist value="75"/>
+		</Item>
+		<Item>
+		  <modelName>markomods-stock3</modelName>
+		  <txdName>markomods-m4-stocks</txdName>
+		  <ptfxAssetName>NULL</ptfxAssetName>
+		  <lodDist value="75"/>
+		</Item>
+		<Item>
+		  <modelName>markomods-stock4</modelName>
+		  <txdName>markomods-m4-stocks</txdName>
+		  <ptfxAssetName>NULL</ptfxAssetName>
+		  <lodDist value="75"/>
+		</Item>
+		<Item>
+		  <modelName>markomods-stock5</modelName>
+		  <txdName>markomods-m4-stocks</txdName>
+		  <ptfxAssetName>NULL</ptfxAssetName>
+		  <lodDist value="75"/>
+		</Item>
+		<Item>
+		  <modelName>markomods-handguard1</modelName>
+		  <txdName>markomods-m4-handguards</txdName>
+		  <ptfxAssetName>NULL</ptfxAssetName>
+		  <lodDist value="75"/>
+		</Item>
+		<Item>
+		  <modelName>markomods-handguard2</modelName>
+		  <txdName>markomods-m4-handguards</txdName>
+		  <ptfxAssetName>NULL</ptfxAssetName>
+		  <lodDist value="75"/>
+		</Item>
+		<Item>
+		  <modelName>markomods-handguard3</modelName>
+		  <txdName>markomods-m4-handguards</txdName>
+		  <ptfxAssetName>NULL</ptfxAssetName>
+		  <lodDist value="75"/>
+		</Item>
+		<Item>
+		  <modelName>markomods-grip1</modelName>
+		  <txdName>markomods-m4-grips</txdName>
+		  <ptfxAssetName>NULL</ptfxAssetName>
+		  <lodDist value="75"/>
+		</Item>
+		<Item>
+		  <modelName>markomods-grip2</modelName>
+		  <txdName>markomods-m4-grips</txdName>
+		  <ptfxAssetName>NULL</ptfxAssetName>
+		  <lodDist value="75"/>
+		</Item>
+		<Item>
+		  <modelName>markomods-grip3</modelName>
+		  <txdName>markomods-m4-grips</txdName>
+		  <ptfxAssetName>NULL</ptfxAssetName>
+		  <lodDist value="75"/>
+		</Item>
+		<Item>
+		  <modelName>markomods-grip4</modelName>
+		  <txdName>markomods-m4-grips</txdName>
+		  <ptfxAssetName>NULL</ptfxAssetName>
+		  <lodDist value="75"/>
+		</Item>
+		<Item>
+		  <modelName>markomods-grip5</modelName>
+		  <txdName>markomods-m4-grips</txdName>
+		  <ptfxAssetName>NULL</ptfxAssetName>
+		  <lodDist value="75"/>
+		</Item>
+		<Item>
+		  <modelName>markomods-suppressor1</modelName>
+		  <txdName>markomods-m4-suppressors</txdName>
+		  <ptfxAssetName>NULL</ptfxAssetName>
+		  <lodDist value="75"/>
+		</Item>
+		<Item>
+		  <modelName>markomods-suppressor2</modelName>
+		  <txdName>markomods-m4-suppressors</txdName>
+		  <ptfxAssetName>NULL</ptfxAssetName>
+		  <lodDist value="75"/>
+		</Item>
+		<Item>
+		  <modelName>markomods-suppressor3</modelName>
+		  <txdName>markomods-m4-suppressors</txdName>
+		  <ptfxAssetName>NULL</ptfxAssetName>
+		  <lodDist value="75"/>
+		</Item>
+		<Item>
+		  <modelName>markomods-suppressor4</modelName>
+		  <txdName>markomods-m4-suppressors</txdName>
+		  <ptfxAssetName>NULL</ptfxAssetName>
+		  <lodDist value="75"/>
+		</Item>
+		<Item>
+		  <modelName>markomods-suppressor5</modelName>
+		  <txdName>markomods-m4-suppressors</txdName>
+		  <ptfxAssetName>NULL</ptfxAssetName>
+		  <lodDist value="75"/>
+		</Item>
+		<Item>
+		  <modelName>markomods-suppressor6</modelName>
+		  <txdName>markomods-m4-suppressors</txdName>
+		  <ptfxAssetName>NULL</ptfxAssetName>
+		  <lodDist value="75"/>
+		</Item>
+		<Item>
+		  <modelName>markomods-suppressor7</modelName>
+		  <txdName>markomods-m4-suppressors</txdName>
+		  <ptfxAssetName>NULL</ptfxAssetName>
+		  <lodDist value="75"/>
+		</Item>
+		<Item>
+		  <modelName>markomods-scope1</modelName>
+		  <txdName>markomods-m4-scopes</txdName>
+		  <ptfxAssetName>NULL</ptfxAssetName>
+		  <lodDist value="75"/>
+		</Item>
+		<Item>
+		  <modelName>markomods-scope2</modelName>
+		  <txdName>markomods-m4-scopes</txdName>
+		  <ptfxAssetName>NULL</ptfxAssetName>
+		  <lodDist value="75"/>
+		</Item>
+		<Item>
+		  <modelName>markomods-scope3</modelName>
+		  <txdName>markomods-m4-scopes</txdName>
+		  <ptfxAssetName>NULL</ptfxAssetName>
+		  <lodDist value="75"/>
+		</Item>
+		<Item>
+		  <modelName>markomods-scope4</modelName>
+		  <txdName>markomods-m4-scopes</txdName>
+		  <ptfxAssetName>NULL</ptfxAssetName>
+		  <lodDist value="75"/>
+		</Item>
+		<Item>
+		  <modelName>markomods-scope5</modelName>
+		  <txdName>markomods-m4-scopes</txdName>
+		  <ptfxAssetName>NULL</ptfxAssetName>
+		  <lodDist value="75"/>
+		</Item>
+		<Item>
+		  <modelName>markomods-scope6</modelName>
+		  <txdName>markomods-m4-scopes</txdName>
+		  <ptfxAssetName>NULL</ptfxAssetName>
+		  <lodDist value="75"/>
+		</Item>
+		<Item>
+		  <modelName>markomods-scope7</modelName>
+		  <txdName>markomods-m4-scopes</txdName>
+		  <ptfxAssetName>NULL</ptfxAssetName>
+		  <lodDist value="75"/>
+		</Item>
+		<Item>
+		  <modelName>markomods-scope8</modelName>
+		  <txdName>markomods-m4-scopes</txdName>
+		  <ptfxAssetName>NULL</ptfxAssetName>
+		  <lodDist value="75"/>
+		</Item>
+		<Item>
+		  <modelName>markomods-scope9</modelName>
+		  <txdName>markomods-m4-scopes</txdName>
+		  <ptfxAssetName>NULL</ptfxAssetName>
+		  <lodDist value="75"/>
+		</Item>
+		<Item>
+		  <modelName>markomods-flash1</modelName>
+		  <txdName>markomods-m4-flashlights</txdName>
+		  <ptfxAssetName>NULL</ptfxAssetName>
+		  <lodDist value="75"/>
+		</Item>
+		<Item>
+		  <modelName>markomods-flash2</modelName>
+		  <txdName>markomods-m4-flashlights</txdName>
+		  <ptfxAssetName>NULL</ptfxAssetName>
+		  <lodDist value="75"/>
+		</Item>
+		<Item>
+		  <modelName>markomods-flash3</modelName>
+		  <txdName>markomods-m4-flashlights</txdName>
+		  <ptfxAssetName>NULL</ptfxAssetName>
+		  <lodDist value="75"/>
+		</Item>
+		<Item>
+		  <modelName>markomods-flash4</modelName>
+		  <txdName>markomods-m4-flashlights</txdName>
+		  <ptfxAssetName>NULL</ptfxAssetName>
+		  <lodDist value="75"/>
+		</Item>
+		<Item>
+		  <modelName>markomods-flash5</modelName>
+		  <txdName>markomods-m4-flashlights</txdName>
+		  <ptfxAssetName>NULL</ptfxAssetName>
+		  <lodDist value="75"/>
+		</Item>
+		<Item>
+		  <modelName>markomods-flash6</modelName>
+		  <txdName>markomods-m4-flashlights</txdName>
+		  <ptfxAssetName>NULL</ptfxAssetName>
+		  <lodDist value="75"/>
+		</Item>
+		<Item>
+		  <modelName>markomods-flash7</modelName>
+		  <txdName>markomods-m4-flashlights</txdName>
+		  <ptfxAssetName>NULL</ptfxAssetName>
+		  <lodDist value="75"/>
+		</Item>
+		<Item>
+		  <modelName>markomods-flash8</modelName>
+		  <txdName>markomods-m4-flashlights</txdName>
+		  <ptfxAssetName>NULL</ptfxAssetName>
+		  <lodDist value="75"/>
+		</Item>
+	</InitDatas>
+</CWeaponModelInfo__InitDataList>

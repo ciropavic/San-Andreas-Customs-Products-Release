@@ -1,0 +1,22 @@
+Config = {
+	Server_Name = "San Andreas Customs | Community Discord",
+	Discord_Link = 'https://discord.gg/',
+	Website_Link = 'https://badger.store/',
+	roleList = {
+		{1001648789603500042, "group.Civilian"},
+		{1003792570276655244, "group.Donator-Sports-Car-Pack"},
+		{1013337967642804315, "Donator-Muscle-Car-Pack"},
+		{1005632130946183228, "group.Pubcop"},
+		{997354205708828702, "group.EMS"},
+		{997354687667908638, "group.Sheriff"},
+		{1004064964828479589, "group.FAA"},
+		{1021395629295017984, "group.Staff-Team"},
+		{1001698886940889200, "group.Moderator"},
+		{981586812797583450, "group.Friends"},
+		{1001699555869458452, "group.Administrator"},
+		{1001699460763619368, "group.Senior-Administrator"}, 
+		{1001699381407400036, "group.Head-Administrator"}, 
+		{1001297622197346414, "group.Community-Management"}, 
+		{1021395528099057714, "group.President"}, 
+	},
+}

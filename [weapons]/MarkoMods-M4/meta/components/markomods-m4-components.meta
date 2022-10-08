@@ -1,0 +1,1033 @@
+<?xml version="1.0" encoding="UTF - 8"?>
+
+<CWeaponComponentInfoBlob>
+<Data>
+  </Data>
+	<Infos>
+    	<Item type="CWeaponComponentClipInfo">
+			<Name>COMPONENT_MARKOMODSM4_CLIP_01</Name>
+			<Model>markomods-mag1</Model>
+			<LocName>WCT_MAG</LocName>
+			<LocDesc>WCD_MAG</LocDesc>
+			<AttachBone>AAPClip</AttachBone>
+			<AccuracyModifier type="NULL" />
+			<DamageModifier type="NULL" />
+			<bShownOnWheel value="false" />
+			<CreateObject value="true" />
+			<HudDamage value="0" />
+			<HudSpeed value="0" />
+			<HudCapacity value="0" />
+			<HudAccuracy value="0" />
+			<HudRange value="0" />
+			<ClipSize value="30" />
+			<ReloadData ref="RELOAD_DEFAULT" />
+		</Item>
+		<Item type="CWeaponComponentClipInfo">
+			<Name>COMPONENT_MARKOMODSM4_CLIP_02</Name>
+			<Model>markomods-mag2</Model>
+			<LocName>WCT_MAG</LocName>
+			<LocDesc>WCD_MAG</LocDesc>
+			<AttachBone>AAPClip</AttachBone>
+			<AccuracyModifier type="NULL" />
+			<DamageModifier type="NULL" />
+			<bShownOnWheel value="false" />
+			<CreateObject value="true" />
+			<HudDamage value="0" />
+			<HudSpeed value="0" />
+			<HudCapacity value="0" />
+			<HudAccuracy value="0" />
+			<HudRange value="0" />
+			<ClipSize value="30" />
+			<ReloadData ref="RELOAD_DEFAULT" />
+		</Item>
+		<Item type="CWeaponComponentClipInfo">
+			<Name>COMPONENT_MARKOMODSM4_CLIP_03</Name>
+			<Model>markomods-mag3</Model>
+			<LocName>WCT_MAG</LocName>
+			<LocDesc>WCD_MAG</LocDesc>
+			<AttachBone>AAPClip</AttachBone>
+			<AccuracyModifier type="NULL" />
+			<DamageModifier type="NULL" />
+			<bShownOnWheel value="false" />
+			<CreateObject value="true" />
+			<HudDamage value="0" />
+			<HudSpeed value="0" />
+			<HudCapacity value="0" />
+			<HudAccuracy value="0" />
+			<HudRange value="0" />
+			<ClipSize value="30" />
+			<ReloadData ref="RELOAD_DEFAULT" />
+		</Item>
+		<Item type="CWeaponComponentClipInfo">
+			<Name>COMPONENT_MARKOMODSM4_CLIP_04</Name>
+			<Model>markomods-mag4</Model>
+			<LocName>WCT_MAG</LocName>
+			<LocDesc>WCD_MAG</LocDesc>
+			<AttachBone>AAPClip</AttachBone>
+			<AccuracyModifier type="NULL" />
+			<DamageModifier type="NULL" />
+			<bShownOnWheel value="false" />
+			<CreateObject value="true" />
+			<HudDamage value="0" />
+			<HudSpeed value="0" />
+			<HudCapacity value="0" />
+			<HudAccuracy value="0" />
+			<HudRange value="0" />
+			<ClipSize value="30" />
+			<ReloadData ref="RELOAD_DEFAULT" />
+		</Item>
+		<Item type="CWeaponComponentClipInfo">
+			<Name>COMPONENT_MARKOMODSM4_CLIP_05</Name>
+			<Model>markomods-mag5</Model>
+			<LocName>WCT_MAG</LocName>
+			<LocDesc>WCD_MAG</LocDesc>
+			<AttachBone>AAPClip</AttachBone>
+			<AccuracyModifier type="NULL" />
+			<DamageModifier type="NULL" />
+			<bShownOnWheel value="false" />
+			<CreateObject value="true" />
+			<HudDamage value="0" />
+			<HudSpeed value="0" />
+			<HudCapacity value="0" />
+			<HudAccuracy value="0" />
+			<HudRange value="0" />
+			<ClipSize value="60" />
+			<ReloadData ref="RELOAD_DEFAULT" />
+		</Item>
+		<Item type="CWeaponComponentClipInfo">
+			<Name>COMPONENT_MARKOMODSM4_CLIP_06</Name>
+			<Model>markomods-mag6</Model>
+			<LocName>WCT_MAG</LocName>
+			<LocDesc>WCD_MAG</LocDesc>
+			<AttachBone>AAPClip</AttachBone>
+			<AccuracyModifier type="NULL" />
+			<DamageModifier type="NULL" />
+			<bShownOnWheel value="false" />
+			<CreateObject value="true" />
+			<HudDamage value="0" />
+			<HudSpeed value="0" />
+			<HudCapacity value="0" />
+			<HudAccuracy value="0" />
+			<HudRange value="0" />
+			<ClipSize value="60" />
+			<ReloadData ref="RELOAD_DEFAULT" />
+		</Item>
+		<Item type="CWeaponComponentClipInfo">
+			<Name>COMPONENT_MARKOMODSM4_CLIP_07</Name>
+			<Model>markomods-mag7</Model>
+			<LocName>WCT_MAG</LocName>
+			<LocDesc>WCD_MAG</LocDesc>
+			<AttachBone>AAPClip</AttachBone>
+			<AccuracyModifier type="NULL" />
+			<DamageModifier type="NULL" />
+			<bShownOnWheel value="false" />
+			<CreateObject value="true" />
+			<HudDamage value="0" />
+			<HudSpeed value="0" />
+			<HudCapacity value="0" />
+			<HudAccuracy value="0" />
+			<HudRange value="0" />
+			<ClipSize value="100" />
+			<ReloadData ref="RELOAD_DEFAULT" />
+		</Item>
+		<Item type="CWeaponComponentInfo">
+			<Name>COMPONENT_MARKOMODSM4_STOCK_01</Name>
+			<Model>markomods-stock1</Model>
+			<LocName>WCT_STOCK</LocName>
+			<LocDesc>WCD_STOCK</LocDesc>
+			<AttachBone>AAPStock</AttachBone>
+			<AccuracyModifier type="NULL" />
+			<DamageModifier type="NULL" />
+			<bShownOnWheel value="false" />
+			<CreateObject value="true" />
+			<HudDamage value="0" />
+			<HudSpeed value="0" />
+			<HudCapacity value="0" />
+			<HudAccuracy value="0" />
+			<HudRange value="0" />
+		</Item>
+		<Item type="CWeaponComponentInfo">
+			<Name>COMPONENT_MARKOMODSM4_STOCK_02</Name>
+			<Model>markomods-stock2</Model>
+			<LocName>WCT_STOCK</LocName>
+			<LocDesc>WCD_STOCK</LocDesc>
+			<AttachBone>AAPStock</AttachBone>
+			<AccuracyModifier type="NULL" />
+			<DamageModifier type="NULL" />
+			<bShownOnWheel value="false" />
+			<CreateObject value="true" />
+			<HudDamage value="0" />
+			<HudSpeed value="0" />
+			<HudCapacity value="0" />
+			<HudAccuracy value="0" />
+			<HudRange value="0" />
+		</Item>
+		<Item type="CWeaponComponentInfo">
+			<Name>COMPONENT_MARKOMODSM4_STOCK_03</Name>
+			<Model>markomods-stock3</Model>
+			<LocName>WCT_STOCK</LocName>
+			<LocDesc>WCD_STOCK</LocDesc>
+			<AttachBone>AAPStock</AttachBone>
+			<AccuracyModifier type="NULL" />
+			<DamageModifier type="NULL" />
+			<bShownOnWheel value="false" />
+			<CreateObject value="true" />
+			<HudDamage value="0" />
+			<HudSpeed value="0" />
+			<HudCapacity value="0" />
+			<HudAccuracy value="0" />
+			<HudRange value="0" />
+		</Item>
+		<Item type="CWeaponComponentInfo">
+			<Name>COMPONENT_MARKOMODSM4_STOCK_04</Name>
+			<Model>markomods-stock4</Model>
+			<LocName>WCT_STOCK</LocName>
+			<LocDesc>WCD_STOCK</LocDesc>
+			<AttachBone>AAPStock</AttachBone>
+			<AccuracyModifier type="NULL" />
+			<DamageModifier type="NULL" />
+			<bShownOnWheel value="false" />
+			<CreateObject value="true" />
+			<HudDamage value="0" />
+			<HudSpeed value="0" />
+			<HudCapacity value="0" />
+			<HudAccuracy value="0" />
+			<HudRange value="0" />
+		</Item>
+		<Item type="CWeaponComponentInfo">
+			<Name>COMPONENT_MARKOMODSM4_STOCK_05</Name>
+			<Model>markomods-stock5</Model>
+			<LocName>WCT_STOCK</LocName>
+			<LocDesc>WCD_STOCK</LocDesc>
+			<AttachBone>AAPStock</AttachBone>
+			<AccuracyModifier type="NULL" />
+			<DamageModifier type="NULL" />
+			<bShownOnWheel value="false" />
+			<CreateObject value="true" />
+			<HudDamage value="0" />
+			<HudSpeed value="0" />
+			<HudCapacity value="0" />
+			<HudAccuracy value="0" />
+			<HudRange value="0" />
+		</Item>
+		<Item type="CWeaponComponentInfo">
+			<Name>COMPONENT_MARKOMODSM4_HANDGUARD_01</Name>
+			<Model>markomods-handguard1</Model>
+			<LocName>WCT_HANDGUARD</LocName>
+			<LocDesc>WCD_HANDGUARD</LocDesc>
+			<AttachBone>AAPGrip_2</AttachBone>
+			<AccuracyModifier type="NULL" />
+			<DamageModifier type="NULL" />
+			<bShownOnWheel value="false" />
+			<CreateObject value="true" />
+			<HudDamage value="0" />
+			<HudSpeed value="0" />
+			<HudCapacity value="0" />
+			<HudAccuracy value="0" />
+			<HudRange value="0" />
+		</Item>
+		<Item type="CWeaponComponentInfo">
+			<Name>COMPONENT_MARKOMODSM4_HANDGUARD_02</Name>
+			<Model>markomods-handguard2</Model>
+			<LocName>WCT_HANDGUARD</LocName>
+			<LocDesc>WCD_HANDGUARD</LocDesc>
+			<AttachBone>AAPGrip_2</AttachBone>
+			<AccuracyModifier type="NULL" />
+			<DamageModifier type="NULL" />
+			<bShownOnWheel value="false" />
+			<CreateObject value="true" />
+			<HudDamage value="0" />
+			<HudSpeed value="0" />
+			<HudCapacity value="0" />
+			<HudAccuracy value="0" />
+			<HudRange value="0" />
+		</Item>
+		<Item type="CWeaponComponentInfo">
+			<Name>COMPONENT_MARKOMODSM4_HANDGUARD_03</Name>
+			<Model>markomods-handguard3</Model>
+			<LocName>WCT_HANDGUARD</LocName>
+			<LocDesc>WCD_HANDGUARD</LocDesc>
+			<AttachBone>AAPGrip_2</AttachBone>
+			<AccuracyModifier type="NULL" />
+			<DamageModifier type="NULL" />
+			<bShownOnWheel value="false" />
+			<CreateObject value="true" />
+			<HudDamage value="0" />
+			<HudSpeed value="0" />
+			<HudCapacity value="0" />
+			<HudAccuracy value="0" />
+			<HudRange value="0" />
+		</Item>
+		<Item type="CWeaponComponentInfo">
+			<Name>COMPONENT_MARKOMODSM4_GRIP_01</Name>
+			<Model>markomods-grip1</Model>
+			<LocName>WCT_GRIP</LocName>
+			<LocDesc>WCD_GRIP</LocDesc>
+			<AttachBone>AAPGrip</AttachBone>
+			<AccuracyModifier type="NULL" />
+			<DamageModifier type="NULL" />
+			<bShownOnWheel value="false" />
+			<CreateObject value="true" />
+			<HudDamage value="0" />
+			<HudSpeed value="0" />
+			<HudCapacity value="0" />
+			<HudAccuracy value="0" />
+			<HudRange value="0" />
+		</Item>
+		<Item type="CWeaponComponentInfo">
+			<Name>COMPONENT_MARKOMODSM4_GRIP_02</Name>
+			<Model>markomods-grip2</Model>
+			<LocName>WCT_GRIP</LocName>
+			<LocDesc>WCD_GRIP</LocDesc>
+			<AttachBone>AAPGrip</AttachBone>
+			<AccuracyModifier type="NULL" />
+			<DamageModifier type="NULL" />
+			<bShownOnWheel value="false" />
+			<CreateObject value="true" />
+			<HudDamage value="0" />
+			<HudSpeed value="0" />
+			<HudCapacity value="0" />
+			<HudAccuracy value="0" />
+			<HudRange value="0" />
+		</Item>
+		<Item type="CWeaponComponentInfo">
+			<Name>COMPONENT_MARKOMODSM4_GRIP_03</Name>
+			<Model>markomods-grip3</Model>
+			<LocName>WCT_GRIP</LocName>
+			<LocDesc>WCD_GRIP</LocDesc>
+			<AttachBone>AAPGrip</AttachBone>
+			<AccuracyModifier type="NULL" />
+			<DamageModifier type="NULL" />
+			<bShownOnWheel value="false" />
+			<CreateObject value="true" />
+			<HudDamage value="0" />
+			<HudSpeed value="0" />
+			<HudCapacity value="0" />
+			<HudAccuracy value="0" />
+			<HudRange value="0" />
+		</Item>
+		<Item type="CWeaponComponentInfo">
+			<Name>COMPONENT_MARKOMODSM4_GRIP_04</Name>
+			<Model>markomods-grip4</Model>
+			<LocName>WCT_GRIP</LocName>
+			<LocDesc>WCD_GRIP</LocDesc>
+			<AttachBone>AAPGrip</AttachBone>
+			<AccuracyModifier type="NULL" />
+			<DamageModifier type="NULL" />
+			<bShownOnWheel value="false" />
+			<CreateObject value="true" />
+			<HudDamage value="0" />
+			<HudSpeed value="0" />
+			<HudCapacity value="0" />
+			<HudAccuracy value="0" />
+			<HudRange value="0" />
+		</Item>
+		<Item type="CWeaponComponentInfo">
+			<Name>COMPONENT_MARKOMODSM4_GRIP_05</Name>
+			<Model>markomods-grip5</Model>
+			<LocName>WCT_GRIP</LocName>
+			<LocDesc>WCD_GRIP</LocDesc>
+			<AttachBone>AAPGrip</AttachBone>
+			<AccuracyModifier type="NULL" />
+			<DamageModifier type="NULL" />
+			<bShownOnWheel value="false" />
+			<CreateObject value="true" />
+			<HudDamage value="0" />
+			<HudSpeed value="0" />
+			<HudCapacity value="0" />
+			<HudAccuracy value="0" />
+			<HudRange value="0" />
+		</Item>
+		<Item type="CWeaponComponentSuppressorInfo">
+			<Name>COMPONENT_MARKOMODSM4_SUPPRESSOR_01</Name>
+			<Model>markomods-suppressor1</Model>
+			<LocName>WCT_SUPPRESSOR</LocName>
+			<LocDesc>WCD_SUPPRESSOR</LocDesc>
+			<AttachBone>AAPSupp</AttachBone>
+			<WeaponAttachBone>WAPSupp</WeaponAttachBone>
+			<AccuracyModifier type="NULL"/>
+			<bShownOnWheel value="true"/>
+			<CreateObject value="true"/>
+			<HudDamage value="-5"/>
+			<HudSpeed value="0"/>
+			<HudCapacity value="0"/>
+			<HudAccuracy value="0"/>
+			<HudRange value="-5"/>
+			<MuzzleBone>Gun_SuMuzzle</MuzzleBone>
+			<FlashFx>muz_assault_rifle</FlashFx>
+			<ShouldSilence value="false" />
+		</Item>
+		<Item type="CWeaponComponentSuppressorInfo">
+			<Name>COMPONENT_MARKOMODSM4_SUPPRESSOR_02</Name>
+			<Model>markomods-suppressor2</Model>
+			<LocName>WCT_SUPPRESSOR</LocName>
+			<LocDesc>WCD_SUPPRESSOR</LocDesc>
+			<AttachBone>AAPSupp</AttachBone>
+			<WeaponAttachBone>WAPSupp</WeaponAttachBone>
+			<AccuracyModifier type="NULL"/>
+			<bShownOnWheel value="true"/>
+			<CreateObject value="true"/>
+			<HudDamage value="-5"/>
+			<HudSpeed value="0"/>
+			<HudCapacity value="0"/>
+			<HudAccuracy value="0"/>
+			<HudRange value="-5"/>
+			<MuzzleBone>Gun_SuMuzzle</MuzzleBone>
+			<FlashFx>muz_assault_rifle</FlashFx>
+			<ShouldSilence value="true" />
+		</Item>
+		<Item type="CWeaponComponentSuppressorInfo">
+			<Name>COMPONENT_MARKOMODSM4_SUPPRESSOR_03</Name>
+			<Model>markomods-suppressor3</Model>
+			<LocName>WCT_SUPPRESSOR</LocName>
+			<LocDesc>WCD_SUPPRESSOR</LocDesc>
+			<AttachBone>AAPSupp</AttachBone>
+			<WeaponAttachBone>WAPSupp</WeaponAttachBone>
+			<AccuracyModifier type="NULL"/>
+			<bShownOnWheel value="true"/>
+			<CreateObject value="true"/>
+			<HudDamage value="-5"/>
+			<HudSpeed value="0"/>
+			<HudCapacity value="0"/>
+			<HudAccuracy value="0"/>
+			<HudRange value="-5"/>
+			<MuzzleBone>Gun_SuMuzzle</MuzzleBone>
+			<FlashFx>muz_assault_rifle</FlashFx>
+			<ShouldSilence value="true" />
+		</Item>
+		<Item type="CWeaponComponentSuppressorInfo">
+			<Name>COMPONENT_MARKOMODSM4_SUPPRESSOR_04</Name>
+			<Model>markomods-suppressor4</Model>
+			<LocName>WCT_SUPPRESSOR</LocName>
+			<LocDesc>WCD_SUPPRESSOR</LocDesc>
+			<AttachBone>AAPSupp</AttachBone>
+			<WeaponAttachBone>WAPSupp</WeaponAttachBone>
+			<AccuracyModifier type="NULL"/>
+			<bShownOnWheel value="true"/>
+			<CreateObject value="true"/>
+			<HudDamage value="-5"/>
+			<HudSpeed value="0"/>
+			<HudCapacity value="0"/>
+			<HudAccuracy value="0"/>
+			<HudRange value="-5"/>
+			<MuzzleBone>Gun_SuMuzzle</MuzzleBone>
+			<FlashFx>muz_assault_rifle</FlashFx>
+			<ShouldSilence value="true" />
+		</Item>
+		<Item type="CWeaponComponentSuppressorInfo">
+			<Name>COMPONENT_MARKOMODSM4_SUPPRESSOR_05</Name>
+			<Model>markomods-suppressor5</Model>
+			<LocName>WCT_SUPPRESSOR</LocName>
+			<LocDesc>WCD_SUPPRESSOR</LocDesc>
+			<AttachBone>AAPSupp</AttachBone>
+			<WeaponAttachBone>WAPSupp</WeaponAttachBone>
+			<AccuracyModifier type="NULL"/>
+			<bShownOnWheel value="true"/>
+			<CreateObject value="true"/>
+			<HudDamage value="-5"/>
+			<HudSpeed value="0"/>
+			<HudCapacity value="0"/>
+			<HudAccuracy value="0"/>
+			<HudRange value="-5"/>
+			<MuzzleBone>Gun_SuMuzzle</MuzzleBone>
+			<FlashFx>muz_assault_rifle</FlashFx>
+			<ShouldSilence value="true" />
+		</Item>
+		<Item type="CWeaponComponentSuppressorInfo">
+			<Name>COMPONENT_MARKOMODSM4_SUPPRESSOR_06</Name>
+			<Model>markomods-suppressor6</Model>
+			<LocName>WCT_SUPPRESSOR</LocName>
+			<LocDesc>WCD_SUPPRESSOR</LocDesc>
+			<AttachBone>AAPSupp</AttachBone>
+			<WeaponAttachBone>WAPSupp</WeaponAttachBone>
+			<AccuracyModifier type="NULL"/>
+			<bShownOnWheel value="true"/>
+			<CreateObject value="true"/>
+			<HudDamage value="-5"/>
+			<HudSpeed value="0"/>
+			<HudCapacity value="0"/>
+			<HudAccuracy value="0"/>
+			<HudRange value="-5"/>
+			<MuzzleBone>Gun_SuMuzzle</MuzzleBone>
+			<FlashFx>muz_assault_rifle</FlashFx>
+			<ShouldSilence value="true" />
+		</Item>
+		<Item type="CWeaponComponentSuppressorInfo">
+			<Name>COMPONENT_MARKOMODSM4_SUPPRESSOR_07</Name>
+			<Model>markomods-suppressor7</Model>
+			<LocName>WCT_SUPPRESSOR</LocName>
+			<LocDesc>WCD_SUPPRESSOR</LocDesc>
+			<AttachBone>AAPSupp</AttachBone>
+			<WeaponAttachBone>WAPSupp</WeaponAttachBone>
+			<AccuracyModifier type="NULL"/>
+			<bShownOnWheel value="true"/>
+			<CreateObject value="true"/>
+			<HudDamage value="-5"/>
+			<HudSpeed value="0"/>
+			<HudCapacity value="0"/>
+			<HudAccuracy value="0"/>
+			<HudRange value="-5"/>
+			<MuzzleBone>Gun_SuMuzzle</MuzzleBone>
+			<FlashFx>muz_assault_rifle</FlashFx>
+			<ShouldSilence value="true" />
+		</Item>
+		<Item type="CWeaponComponentScopeInfo">
+			<Name>COMPONENT_MARKOMODSM4_SCOPE_01</Name>
+			<Model>markomods-scope1</Model>
+			<LocName>WCT_SCOPE_MED</LocName>
+			<LocDesc>WCD_SCOPE_MED</LocDesc>
+			<AttachBone>AAPScop</AttachBone>
+			<WeaponAttachBone>WAPScop</WeaponAttachBone>
+			<AccuracyModifier type="NULL"/>
+			<DamageModifier type="NULL"/>
+			<bShownOnWheel value="true"/>
+			<CreateObject value="true"/>
+			<HudDamage value="0"/>
+			<HudSpeed value="0"/>
+			<HudCapacity value="0"/>
+			<HudAccuracy value="5"/>
+			<HudRange value="0"/>
+			<CameraHash/>
+			<RecoilShakeAmplitude value="0.280000"/>
+			<Reticule value="0"/>
+			<ReticuleHash/>
+		</Item>
+		<Item type="CWeaponComponentScopeInfo">
+			<Name>COMPONENT_MARKOMODSM4_SCOPE_02</Name>
+			<Model>markomods-scope2</Model>
+			<LocName>WCT_SCOPE_MED</LocName>
+			<LocDesc>WCD_SCOPE_MED</LocDesc>
+			<AttachBone>AAPScop</AttachBone>
+			<WeaponAttachBone>WAPScop</WeaponAttachBone>
+			<AccuracyModifier type="NULL"/>
+			<DamageModifier type="NULL"/>
+			<bShownOnWheel value="true"/>
+			<CreateObject value="true"/>
+			<HudDamage value="0"/>
+			<HudSpeed value="0"/>
+			<HudCapacity value="0"/>
+			<HudAccuracy value="5"/>
+			<HudRange value="0"/>
+			<CameraHash/>
+			<RecoilShakeAmplitude value="0.280000"/>
+			<Reticule value="0"/>
+			<ReticuleHash/>
+		</Item>
+		<Item type="CWeaponComponentScopeInfo">
+			<Name>COMPONENT_MARKOMODSM4_SCOPE_03</Name>
+			<Model>markomods-scope3</Model>
+			<LocName>WCT_SCOPE_MED</LocName>
+			<LocDesc>WCD_SCOPE_MED</LocDesc>
+			<AttachBone>AAPScop</AttachBone>
+			<WeaponAttachBone>WAPScop</WeaponAttachBone>
+			<AccuracyModifier type="NULL"/>
+			<DamageModifier type="NULL"/>
+			<bShownOnWheel value="true"/>
+			<CreateObject value="true"/>
+			<HudDamage value="0"/>
+			<HudSpeed value="0"/>
+			<HudCapacity value="0"/>
+			<HudAccuracy value="5"/>
+			<HudRange value="0"/>
+			<CameraHash/>
+			<RecoilShakeAmplitude value="0.280000"/>
+			<Reticule value="0"/>
+			<ReticuleHash/>
+		</Item>
+		<Item type="CWeaponComponentScopeInfo">
+			<Name>COMPONENT_MARKOMODSM4_SCOPE_04</Name>
+			<Model>markomods-scope4</Model>
+			<LocName>WCT_SCOPE_MED</LocName>
+			<LocDesc>WCD_SCOPE_MED</LocDesc>
+			<AttachBone>AAPScop</AttachBone>
+			<WeaponAttachBone>WAPScop</WeaponAttachBone>
+			<AccuracyModifier type="NULL"/>
+			<DamageModifier type="NULL"/>
+			<bShownOnWheel value="true"/>
+			<CreateObject value="true"/>
+			<HudDamage value="0"/>
+			<HudSpeed value="0"/>
+			<HudCapacity value="0"/>
+			<HudAccuracy value="5"/>
+			<HudRange value="0"/>
+			<CameraHash/>
+			<RecoilShakeAmplitude value="0.280000"/>
+			<Reticule value="0"/>
+			<ReticuleHash/>
+		</Item>
+		<Item type="CWeaponComponentScopeInfo">
+			<Name>COMPONENT_MARKOMODSM4_SCOPE_05</Name>
+			<Model>markomods-scope5</Model>
+			<LocName>WCT_SCOPE_MED</LocName>
+			<LocDesc>WCD_SCOPE_MED</LocDesc>
+			<AttachBone>AAPScop</AttachBone>
+			<WeaponAttachBone>WAPScop</WeaponAttachBone>
+			<AccuracyModifier type="NULL"/>
+			<DamageModifier type="NULL"/>
+			<bShownOnWheel value="true"/>
+			<CreateObject value="true"/>
+			<HudDamage value="0"/>
+			<HudSpeed value="0"/>
+			<HudCapacity value="0"/>
+			<HudAccuracy value="5"/>
+			<HudRange value="0"/>
+			<CameraHash/>
+			<RecoilShakeAmplitude value="0.280000"/>
+			<Reticule value="0"/>
+			<ReticuleHash/>
+		</Item>
+		<Item type="CWeaponComponentScopeInfo">
+			<Name>COMPONENT_MARKOMODSM4_SCOPE_06</Name>
+			<Model>markomods-scope6</Model>
+			<LocName>WCT_SCOPE_MED</LocName>
+			<LocDesc>WCD_SCOPE_MED</LocDesc>
+			<AttachBone>AAPScop</AttachBone>
+			<WeaponAttachBone>WAPScop</WeaponAttachBone>
+			<AccuracyModifier type="NULL"/>
+			<DamageModifier type="NULL"/>
+			<bShownOnWheel value="true"/>
+			<CreateObject value="true"/>
+			<HudDamage value="0"/>
+			<HudSpeed value="0"/>
+			<HudCapacity value="0"/>
+			<HudAccuracy value="5"/>
+			<HudRange value="0"/>
+			<CameraHash/>
+			<RecoilShakeAmplitude value="0.280000"/>
+			<Reticule value="0"/>
+			<ReticuleHash/>
+		</Item>
+		<Item type="CWeaponComponentScopeInfo">
+			<Name>COMPONENT_MARKOMODSM4_SCOPE_07</Name>
+			<Model>markomods-scope7</Model>
+			<LocName>WCT_SCOPE_MED</LocName>
+			<LocDesc>WCD_SCOPE_MED</LocDesc>
+			<AttachBone>AAPScop</AttachBone>
+			<WeaponAttachBone>WAPScop</WeaponAttachBone>
+			<AccuracyModifier type="NULL"/>
+			<DamageModifier type="NULL"/>
+			<bShownOnWheel value="true"/>
+			<CreateObject value="true"/>
+			<HudDamage value="0"/>
+			<HudSpeed value="0"/>
+			<HudCapacity value="0"/>
+			<HudAccuracy value="5"/>
+			<HudRange value="0"/>
+			<CameraHash/>
+			<RecoilShakeAmplitude value="0.280000"/>
+			<Reticule value="0"/>
+			<ReticuleHash/>
+		</Item>
+		<Item type="CWeaponComponentScopeInfo">
+			<Name>COMPONENT_MARKOMODSM4_SCOPE_08</Name>
+			<Model>markomods-scope8</Model>
+			<LocName>WCT_SCOPE_MED</LocName>
+			<LocDesc>WCD_SCOPE_MED</LocDesc>
+			<AttachBone>AAPScop</AttachBone>
+			<WeaponAttachBone>WAPScop</WeaponAttachBone>
+			<AccuracyModifier type="NULL"/>
+			<DamageModifier type="NULL"/>
+			<bShownOnWheel value="true"/>
+			<CreateObject value="true"/>
+			<HudDamage value="0"/>
+			<HudSpeed value="0"/>
+			<HudCapacity value="0"/>
+			<HudAccuracy value="5"/>
+			<HudRange value="0"/>
+			<CameraHash>SNIPER_FIXED_ZOOM_AIM_CAMERA</CameraHash>
+			<RecoilShakeAmplitude value="0.280000" />
+			<ExtraZoomFactorForAccurateMode value="0.000000" />
+			<ReticuleHash>SNIPER_LARGE</ReticuleHash>
+		</Item>
+		<Item type="CWeaponComponentScopeInfo">
+			<Name>COMPONENT_MARKOMODSM4_SCOPE_09</Name>
+			<Model>markomods-scope9</Model>
+			<LocName>WCT_SCOPE_MED</LocName>
+			<LocDesc>WCD_SCOPE_MED</LocDesc>
+			<AttachBone>AAPScop</AttachBone>
+			<WeaponAttachBone>WAPScop</WeaponAttachBone>
+			<AccuracyModifier type="NULL"/>
+			<DamageModifier type="NULL"/>
+			<bShownOnWheel value="true"/>
+			<CreateObject value="true"/>
+			<HudDamage value="0"/>
+			<HudSpeed value="0"/>
+			<HudCapacity value="0"/>
+			<HudAccuracy value="5"/>
+			<HudRange value="0"/>
+			<CameraHash>SNIPER_FIXED_ZOOM_AIM_CAMERA</CameraHash>
+			<RecoilShakeAmplitude value="0.280000" />
+			<ExtraZoomFactorForAccurateMode value="0.000000" />
+			<ReticuleHash>SNIPER_LARGE</ReticuleHash>
+		</Item>
+		<Item type="CWeaponComponentFlashLightInfo">
+			<Name>COMPONENT_MARKOMODSM4_FLASH_01</Name>
+			<Model>markomods-flash1</Model>
+			<LocName>WCT_FLASH</LocName>
+			<LocDesc>WCD_FLASH</LocDesc>
+			<AttachBone>AAPFlsh</AttachBone>
+			<WeaponAttachBone>WAPFlshLasr</WeaponAttachBone>
+			<AccuracyModifier type="NULL"/>
+			<DamageModifier type="NULL"/>
+			<bShownOnWheel value="true"/>
+			<CreateObject value="true"/>
+			<HudDamage value="0"/>
+			<HudSpeed value="0"/>
+			<HudCapacity value="0"/>
+			<HudAccuracy value="0"/>
+			<HudRange value="0"/>
+			<MainLightIntensity value="6.000000"/>
+			<MainLightColor value="0x00FFFFFF"/>
+			<MainLightRange value="20.000000"/>
+			<MainLightFalloffExponent value="32.000000"/>
+			<MainLightInnerAngle value="0.000000"/>
+			<MainLightOuterAngle value="20.000000"/>
+			<MainLightCoronaIntensity value="3.000000"/>
+			<MainLightCoronaSize value="0.200000"/>
+			<MainLightVolumeIntensity value="0.120000"/>
+			<MainLightVolumeSize value="0.030000"/>
+			<MainLightVolumeExponent value="0.010000"/>
+			<MainLightVolumeOuterColor value="0x00FFFFFF"/>
+			<MainLightShadowFadeDistance value="15.000000"/>
+			<MainLightSpecularFadeDistance value="15.000000"/>
+			<SecondaryLightIntensity value="4.000000"/>
+			<SecondaryLightColor value="0x00FFFFFF"/>
+			<SecondaryLightRange value="6.000000"/>
+			<SecondaryLightFalloffExponent value="64.000000"/>
+			<SecondaryLightInnerAngle value="0.000000"/>
+			<SecondaryLightOuterAngle value="60.000000"/>
+			<SecondaryLightVolumeIntensity value="0.300000"/>
+			<SecondaryLightVolumeSize value="0.400000"/>
+			<SecondaryLightVolumeExponent value="24.000000"/>
+			<SecondaryLightVolumeOuterColor value="0x00FFFFFF"/>
+			<SecondaryLightFadeDistance value="10.000000"/>
+			<fTargetDistalongAimCamera value="8.000000"/>
+			<FlashLightBone>Gun_FLMuzzle</FlashLightBone>
+			<FlashLightBoneBulbOn>Bulb_On</FlashLightBoneBulbOn>
+			<FlashLightBoneBulbOff>Bulb_Off</FlashLightBoneBulbOff>
+		</Item>
+		<Item type="CWeaponComponentFlashLightInfo">
+			<Name>COMPONENT_MARKOMODSM4_FLASH_02</Name>
+			<Model>markomods-flash2</Model>
+			<LocName>WCT_FLASH</LocName>
+			<LocDesc>WCD_FLASH</LocDesc>
+			<AttachBone>AAPFlsh</AttachBone>
+			<WeaponAttachBone>WAPFlshLasr</WeaponAttachBone>
+			<AccuracyModifier type="NULL"/>
+			<DamageModifier type="NULL"/>
+			<bShownOnWheel value="true"/>
+			<CreateObject value="true"/>
+			<HudDamage value="0"/>
+			<HudSpeed value="0"/>
+			<HudCapacity value="0"/>
+			<HudAccuracy value="0"/>
+			<HudRange value="0"/>
+			<MainLightIntensity value="6.000000"/>
+			<MainLightColor value="0x00FFFFFF"/>
+			<MainLightRange value="20.000000"/>
+			<MainLightFalloffExponent value="32.000000"/>
+			<MainLightInnerAngle value="0.000000"/>
+			<MainLightOuterAngle value="20.000000"/>
+			<MainLightCoronaIntensity value="3.000000"/>
+			<MainLightCoronaSize value="0.200000"/>
+			<MainLightVolumeIntensity value="0.120000"/>
+			<MainLightVolumeSize value="0.030000"/>
+			<MainLightVolumeExponent value="0.010000"/>
+			<MainLightVolumeOuterColor value="0x00FFFFFF"/>
+			<MainLightShadowFadeDistance value="15.000000"/>
+			<MainLightSpecularFadeDistance value="15.000000"/>
+			<SecondaryLightIntensity value="4.000000"/>
+			<SecondaryLightColor value="0x00FFFFFF"/>
+			<SecondaryLightRange value="6.000000"/>
+			<SecondaryLightFalloffExponent value="64.000000"/>
+			<SecondaryLightInnerAngle value="0.000000"/>
+			<SecondaryLightOuterAngle value="60.000000"/>
+			<SecondaryLightVolumeIntensity value="0.300000"/>
+			<SecondaryLightVolumeSize value="0.400000"/>
+			<SecondaryLightVolumeExponent value="24.000000"/>
+			<SecondaryLightVolumeOuterColor value="0x00FFFFFF"/>
+			<SecondaryLightFadeDistance value="10.000000"/>
+			<fTargetDistalongAimCamera value="8.000000"/>
+			<FlashLightBone>Gun_FLMuzzle</FlashLightBone>
+			<FlashLightBoneBulbOn>Bulb_On</FlashLightBoneBulbOn>
+			<FlashLightBoneBulbOff>Bulb_Off</FlashLightBoneBulbOff>
+		</Item>
+		<Item type="CWeaponComponentFlashLightInfo">
+			<Name>COMPONENT_MARKOMODSM4_FLASH_03</Name>
+			<Model>markomods-flash3</Model>
+			<LocName>WCT_FLASH</LocName>
+			<LocDesc>WCD_FLASH</LocDesc>
+			<AttachBone>AAPFlsh</AttachBone>
+			<WeaponAttachBone>WAPFlshLasr</WeaponAttachBone>
+			<AccuracyModifier type="NULL"/>
+			<DamageModifier type="NULL"/>
+			<bShownOnWheel value="true"/>
+			<CreateObject value="true"/>
+			<HudDamage value="0"/>
+			<HudSpeed value="0"/>
+			<HudCapacity value="0"/>
+			<HudAccuracy value="0"/>
+			<HudRange value="0"/>
+			<MainLightIntensity value="6.000000"/>
+			<MainLightColor value="0x00FFFFFF"/>
+			<MainLightRange value="20.000000"/>
+			<MainLightFalloffExponent value="32.000000"/>
+			<MainLightInnerAngle value="0.000000"/>
+			<MainLightOuterAngle value="20.000000"/>
+			<MainLightCoronaIntensity value="3.000000"/>
+			<MainLightCoronaSize value="0.200000"/>
+			<MainLightVolumeIntensity value="0.120000"/>
+			<MainLightVolumeSize value="0.030000"/>
+			<MainLightVolumeExponent value="0.010000"/>
+			<MainLightVolumeOuterColor value="0x00FFFFFF"/>
+			<MainLightShadowFadeDistance value="15.000000"/>
+			<MainLightSpecularFadeDistance value="15.000000"/>
+			<SecondaryLightIntensity value="4.000000"/>
+			<SecondaryLightColor value="0x00FFFFFF"/>
+			<SecondaryLightRange value="6.000000"/>
+			<SecondaryLightFalloffExponent value="64.000000"/>
+			<SecondaryLightInnerAngle value="0.000000"/>
+			<SecondaryLightOuterAngle value="60.000000"/>
+			<SecondaryLightVolumeIntensity value="0.300000"/>
+			<SecondaryLightVolumeSize value="0.400000"/>
+			<SecondaryLightVolumeExponent value="24.000000"/>
+			<SecondaryLightVolumeOuterColor value="0x00FFFFFF"/>
+			<SecondaryLightFadeDistance value="10.000000"/>
+			<fTargetDistalongAimCamera value="8.000000"/>
+			<FlashLightBone>Gun_FLMuzzle</FlashLightBone>
+			<FlashLightBoneBulbOn>Bulb_On</FlashLightBoneBulbOn>
+			<FlashLightBoneBulbOff>Bulb_Off</FlashLightBoneBulbOff>
+		</Item>
+		<Item type="CWeaponComponentFlashLightInfo">
+			<Name>COMPONENT_MARKOMODSM4_FLASH_04</Name>
+			<Model>markomods-flash4</Model>
+			<LocName>WCT_FLASH</LocName>
+			<LocDesc>WCD_FLASH</LocDesc>
+			<AttachBone>AAPFlsh</AttachBone>
+			<WeaponAttachBone>WAPFlshLasr</WeaponAttachBone>
+			<AccuracyModifier type="NULL"/>
+			<DamageModifier type="NULL"/>
+			<bShownOnWheel value="true"/>
+			<CreateObject value="true"/>
+			<HudDamage value="0"/>
+			<HudSpeed value="0"/>
+			<HudCapacity value="0"/>
+			<HudAccuracy value="0"/>
+			<HudRange value="0"/>
+			<MainLightIntensity value="6.000000"/>
+			<MainLightColor value="0x00FFFFFF"/>
+			<MainLightRange value="20.000000"/>
+			<MainLightFalloffExponent value="32.000000"/>
+			<MainLightInnerAngle value="0.000000"/>
+			<MainLightOuterAngle value="20.000000"/>
+			<MainLightCoronaIntensity value="3.000000"/>
+			<MainLightCoronaSize value="0.200000"/>
+			<MainLightVolumeIntensity value="0.120000"/>
+			<MainLightVolumeSize value="0.030000"/>
+			<MainLightVolumeExponent value="0.010000"/>
+			<MainLightVolumeOuterColor value="0x00FFFFFF"/>
+			<MainLightShadowFadeDistance value="15.000000"/>
+			<MainLightSpecularFadeDistance value="15.000000"/>
+			<SecondaryLightIntensity value="4.000000"/>
+			<SecondaryLightColor value="0x00FFFFFF"/>
+			<SecondaryLightRange value="6.000000"/>
+			<SecondaryLightFalloffExponent value="64.000000"/>
+			<SecondaryLightInnerAngle value="0.000000"/>
+			<SecondaryLightOuterAngle value="60.000000"/>
+			<SecondaryLightVolumeIntensity value="0.300000"/>
+			<SecondaryLightVolumeSize value="0.400000"/>
+			<SecondaryLightVolumeExponent value="24.000000"/>
+			<SecondaryLightVolumeOuterColor value="0x00FFFFFF"/>
+			<SecondaryLightFadeDistance value="10.000000"/>
+			<fTargetDistalongAimCamera value="8.000000"/>
+			<FlashLightBone>Gun_FLMuzzle</FlashLightBone>
+			<FlashLightBoneBulbOn>Bulb_On</FlashLightBoneBulbOn>
+			<FlashLightBoneBulbOff>Bulb_Off</FlashLightBoneBulbOff>
+		</Item>
+		<Item type="CWeaponComponentFlashLightInfo">
+			<Name>COMPONENT_MARKOMODSM4_FLASH_05</Name>
+			<Model>markomods-flash5</Model>
+			<LocName>WCT_FLASH</LocName>
+			<LocDesc>WCD_FLASH</LocDesc>
+			<AttachBone>AAPFlsh</AttachBone>
+			<WeaponAttachBone>WAPFlshLasr</WeaponAttachBone>
+			<AccuracyModifier type="NULL"/>
+			<DamageModifier type="NULL"/>
+			<bShownOnWheel value="true"/>
+			<CreateObject value="true"/>
+			<HudDamage value="0"/>
+			<HudSpeed value="0"/>
+			<HudCapacity value="0"/>
+			<HudAccuracy value="0"/>
+			<HudRange value="0"/>
+			<MainLightIntensity value="6.000000"/>
+			<MainLightColor value="0x00FFFFFF"/>
+			<MainLightRange value="20.000000"/>
+			<MainLightFalloffExponent value="32.000000"/>
+			<MainLightInnerAngle value="0.000000"/>
+			<MainLightOuterAngle value="20.000000"/>
+			<MainLightCoronaIntensity value="3.000000"/>
+			<MainLightCoronaSize value="0.200000"/>
+			<MainLightVolumeIntensity value="0.120000"/>
+			<MainLightVolumeSize value="0.030000"/>
+			<MainLightVolumeExponent value="0.010000"/>
+			<MainLightVolumeOuterColor value="0x00FFFFFF"/>
+			<MainLightShadowFadeDistance value="15.000000"/>
+			<MainLightSpecularFadeDistance value="15.000000"/>
+			<SecondaryLightIntensity value="4.000000"/>
+			<SecondaryLightColor value="0x00FFFFFF"/>
+			<SecondaryLightRange value="6.000000"/>
+			<SecondaryLightFalloffExponent value="64.000000"/>
+			<SecondaryLightInnerAngle value="0.000000"/>
+			<SecondaryLightOuterAngle value="60.000000"/>
+			<SecondaryLightVolumeIntensity value="0.300000"/>
+			<SecondaryLightVolumeSize value="0.400000"/>
+			<SecondaryLightVolumeExponent value="24.000000"/>
+			<SecondaryLightVolumeOuterColor value="0x00FFFFFF"/>
+			<SecondaryLightFadeDistance value="10.000000"/>
+			<fTargetDistalongAimCamera value="8.000000"/>
+			<FlashLightBone>Gun_FLMuzzle</FlashLightBone>
+			<FlashLightBoneBulbOn>Bulb_On</FlashLightBoneBulbOn>
+			<FlashLightBoneBulbOff>Bulb_Off</FlashLightBoneBulbOff>
+		</Item>
+		<Item type="CWeaponComponentFlashLightInfo">
+			<Name>COMPONENT_MARKOMODSM4_FLASH_06</Name>
+			<Model>markomods-flash6</Model>
+			<LocName>WCT_FLASH</LocName>
+			<LocDesc>WCD_FLASH</LocDesc>
+			<AttachBone>AAPFlsh</AttachBone>
+			<WeaponAttachBone>WAPFlshLasr</WeaponAttachBone>
+			<AccuracyModifier type="NULL"/>
+			<DamageModifier type="NULL"/>
+			<bShownOnWheel value="true"/>
+			<CreateObject value="true"/>
+			<HudDamage value="0"/>
+			<HudSpeed value="0"/>
+			<HudCapacity value="0"/>
+			<HudAccuracy value="0"/>
+			<HudRange value="0"/>
+			<MainLightIntensity value="6.000000"/>
+			<MainLightColor value="0x00FFFFFF"/>
+			<MainLightRange value="20.000000"/>
+			<MainLightFalloffExponent value="32.000000"/>
+			<MainLightInnerAngle value="0.000000"/>
+			<MainLightOuterAngle value="20.000000"/>
+			<MainLightCoronaIntensity value="3.000000"/>
+			<MainLightCoronaSize value="0.200000"/>
+			<MainLightVolumeIntensity value="0.120000"/>
+			<MainLightVolumeSize value="0.030000"/>
+			<MainLightVolumeExponent value="0.010000"/>
+			<MainLightVolumeOuterColor value="0x00FFFFFF"/>
+			<MainLightShadowFadeDistance value="15.000000"/>
+			<MainLightSpecularFadeDistance value="15.000000"/>
+			<SecondaryLightIntensity value="4.000000"/>
+			<SecondaryLightColor value="0x00FFFFFF"/>
+			<SecondaryLightRange value="6.000000"/>
+			<SecondaryLightFalloffExponent value="64.000000"/>
+			<SecondaryLightInnerAngle value="0.000000"/>
+			<SecondaryLightOuterAngle value="60.000000"/>
+			<SecondaryLightVolumeIntensity value="0.300000"/>
+			<SecondaryLightVolumeSize value="0.400000"/>
+			<SecondaryLightVolumeExponent value="24.000000"/>
+			<SecondaryLightVolumeOuterColor value="0x00FFFFFF"/>
+			<SecondaryLightFadeDistance value="10.000000"/>
+			<fTargetDistalongAimCamera value="8.000000"/>
+			<FlashLightBone>Gun_FLMuzzle</FlashLightBone>
+			<FlashLightBoneBulbOn>Bulb_On</FlashLightBoneBulbOn>
+			<FlashLightBoneBulbOff>Bulb_Off</FlashLightBoneBulbOff>
+		</Item>
+		<Item type="CWeaponComponentFlashLightInfo">
+			<Name>COMPONENT_MARKOMODSM4_FLASH_07</Name>
+			<Model>markomods-flash7</Model>
+			<LocName>WCT_FLASH</LocName>
+			<LocDesc>WCD_FLASH</LocDesc>
+			<AttachBone>AAPFlsh</AttachBone>
+			<WeaponAttachBone>WAPFlshLasr</WeaponAttachBone>
+			<AccuracyModifier type="NULL"/>
+			<DamageModifier type="NULL"/>
+			<bShownOnWheel value="true"/>
+			<CreateObject value="true"/>
+			<HudDamage value="0"/>
+			<HudSpeed value="0"/>
+			<HudCapacity value="0"/>
+			<HudAccuracy value="0"/>
+			<HudRange value="0"/>
+			<MainLightIntensity value="6.000000"/>
+			<MainLightColor value="0x00FFFFFF"/>
+			<MainLightRange value="20.000000"/>
+			<MainLightFalloffExponent value="32.000000"/>
+			<MainLightInnerAngle value="0.000000"/>
+			<MainLightOuterAngle value="20.000000"/>
+			<MainLightCoronaIntensity value="3.000000"/>
+			<MainLightCoronaSize value="0.200000"/>
+			<MainLightVolumeIntensity value="0.120000"/>
+			<MainLightVolumeSize value="0.030000"/>
+			<MainLightVolumeExponent value="0.010000"/>
+			<MainLightVolumeOuterColor value="0x00FFFFFF"/>
+			<MainLightShadowFadeDistance value="15.000000"/>
+			<MainLightSpecularFadeDistance value="15.000000"/>
+			<SecondaryLightIntensity value="4.000000"/>
+			<SecondaryLightColor value="0x00FFFFFF"/>
+			<SecondaryLightRange value="6.000000"/>
+			<SecondaryLightFalloffExponent value="64.000000"/>
+			<SecondaryLightInnerAngle value="0.000000"/>
+			<SecondaryLightOuterAngle value="60.000000"/>
+			<SecondaryLightVolumeIntensity value="0.300000"/>
+			<SecondaryLightVolumeSize value="0.400000"/>
+			<SecondaryLightVolumeExponent value="24.000000"/>
+			<SecondaryLightVolumeOuterColor value="0x00FFFFFF"/>
+			<SecondaryLightFadeDistance value="10.000000"/>
+			<fTargetDistalongAimCamera value="8.000000"/>
+			<FlashLightBone>Gun_FLMuzzle</FlashLightBone>
+			<FlashLightBoneBulbOn>Bulb_On</FlashLightBoneBulbOn>
+			<FlashLightBoneBulbOff>Bulb_Off</FlashLightBoneBulbOff>
+		</Item>
+		<Item type="CWeaponComponentFlashLightInfo">
+			<Name>COMPONENT_MARKOMODSM4_FLASH_08</Name>
+			<Model>markomods-flash8</Model>
+			<LocName>WCT_FLASH</LocName>
+			<LocDesc>WCD_FLASH</LocDesc>
+			<AttachBone>AAPFlsh</AttachBone>
+			<WeaponAttachBone>WAPFlshLasr</WeaponAttachBone>
+			<AccuracyModifier type="NULL"/>
+			<DamageModifier type="NULL"/>
+			<bShownOnWheel value="true"/>
+			<CreateObject value="true"/>
+			<HudDamage value="0"/>
+			<HudSpeed value="0"/>
+			<HudCapacity value="0"/>
+			<HudAccuracy value="0"/>
+			<HudRange value="0"/>
+			<MainLightIntensity value="6.000000"/>
+			<MainLightColor value="0x00FFFFFF"/>
+			<MainLightRange value="20.000000"/>
+			<MainLightFalloffExponent value="32.000000"/>
+			<MainLightInnerAngle value="0.000000"/>
+			<MainLightOuterAngle value="20.000000"/>
+			<MainLightCoronaIntensity value="3.000000"/>
+			<MainLightCoronaSize value="0.200000"/>
+			<MainLightVolumeIntensity value="0.120000"/>
+			<MainLightVolumeSize value="0.030000"/>
+			<MainLightVolumeExponent value="0.010000"/>
+			<MainLightVolumeOuterColor value="0x00FFFFFF"/>
+			<MainLightShadowFadeDistance value="15.000000"/>
+			<MainLightSpecularFadeDistance value="15.000000"/>
+			<SecondaryLightIntensity value="4.000000"/>
+			<SecondaryLightColor value="0x00FFFFFF"/>
+			<SecondaryLightRange value="6.000000"/>
+			<SecondaryLightFalloffExponent value="64.000000"/>
+			<SecondaryLightInnerAngle value="0.000000"/>
+			<SecondaryLightOuterAngle value="60.000000"/>
+			<SecondaryLightVolumeIntensity value="0.300000"/>
+			<SecondaryLightVolumeSize value="0.400000"/>
+			<SecondaryLightVolumeExponent value="24.000000"/>
+			<SecondaryLightVolumeOuterColor value="0x00FFFFFF"/>
+			<SecondaryLightFadeDistance value="10.000000"/>
+			<fTargetDistalongAimCamera value="8.000000"/>
+			<FlashLightBone>Gun_FLMuzzle</FlashLightBone>
+			<FlashLightBoneBulbOn>Bulb_On</FlashLightBoneBulbOn>
+			<FlashLightBoneBulbOff>Bulb_Off</FlashLightBoneBulbOff>
+		</Item>
+	</Infos>
+	<InfoBlobName/>
+</CWeaponComponentInfoBlob>

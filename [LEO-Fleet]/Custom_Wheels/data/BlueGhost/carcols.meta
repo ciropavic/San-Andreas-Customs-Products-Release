@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CVehicleModelInfoVarGlobal>    
+  <Wheels>
+    <Item> <!-- VWT_SPORT -->
+	  <Item>
+        <wheelName>wheel_capr_01</wheelName>
+        <wheelVariation />
+        <modShopLabel>Chevrolet Caprice PPV Hub</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_polint_01</wheelName>
+        <wheelVariation />
+        <modShopLabel>Ford Police Interceptor Steel</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_polint_02</wheelName>
+        <wheelVariation />
+        <modShopLabel>Ford Police Interceptor Hub</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_chgr_01</wheelName>
+        <wheelVariation />
+        <modShopLabel>Dodge Charger RWD Hub</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_chgr_02</wheelName>
+        <wheelVariation />
+        <modShopLabel>Dodge Charger AWD Hub</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_chgr_03</wheelName>
+        <wheelVariation />
+        <modShopLabel>Dodge Charger RWD Steel</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_chgr_04</wheelName>
+        <wheelVariation />
+        <modShopLabel>Dodge Charger AWD Steel</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_chgr_05</wheelName>
+        <wheelVariation />
+        <modShopLabel>Dodge Charger SXT</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_chgr_06</wheelName>
+        <wheelVariation />
+        <modShopLabel>Dodge Charger SE Hub</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_chgr_07</wheelName>
+        <wheelVariation />
+        <modShopLabel>Dodge Charger GT</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_cvpi_01</wheelName>
+        <wheelVariation />
+        <modShopLabel>Ford CVPI Hub 2005</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_cvpi_02</wheelName>
+        <wheelVariation />
+        <modShopLabel>Ford CVPI Hub 2011</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_cvpi_03</wheelName>
+        <wheelVariation />
+        <modShopLabel>Ford CVPI Steel</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_hoe_01</wheelName>
+        <wheelVariation />
+        <modShopLabel>Chevrolet Tahoe SSV Gray Steel</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_hoe_02</wheelName>
+        <wheelVariation />
+        <modShopLabel>Chevrolet Tahoe SSV Black Steel</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_hoe_03</wheelName>
+        <wheelVariation />
+        <modShopLabel>Chevrolet Tahoe LS</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_hoe_04</wheelName>
+        <wheelVariation />
+        <modShopLabel>Chevrolet Tahoe LTZ</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_imp_01</wheelName>
+        <wheelVariation />
+        <modShopLabel>Chevrolet Impala LPV Hub</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+	</Item>
+    <Item/> <!-- VWT_MUSCLE -->
+    <Item/> <!-- VWT_BIKE -->
+    <Item/> <!-- VWT_HIEND -->
+    <Item/> <!-- VWT_SUPERMOD1 -->
+    <Item/> <!-- VWT_SUPERMOD2 -->
+    <Item/>
+  </Wheels>
+</CVehicleModelInfoVarGlobal>
