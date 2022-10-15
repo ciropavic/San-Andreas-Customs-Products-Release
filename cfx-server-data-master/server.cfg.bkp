@@ -1,0 +1,259 @@
+set es_enableCustomData 1 
+set mysql_connection_string  
+endpoint_add_tcp "0.0.0.0:30346" 
+endpoint_add_udp "0.0.0.0:30346" 
+sv_maxclients 8
+exports.discord_perms:IsRolePresent(user, "BCSO")
+add_ace resource.DiscordAcePerms command.add_principal allow
+add_ace resource.DiscordAcePerms command.remove_principal allow
+set ea_botToken "MTAwNDE5MjE4MzE5ODQyMTA3Mg.GPbyRQ.hMAPNZ2zPrJs8IE4UhqoyWXZqDBWwZ1U-8bKDo"
+set ea_botGuild "981586205906981014"
+set ea_botLogChannel "1004226413026627686"
+setr ea_screenshoturl "https://discord.com/api/webhooks/1013703189662547970/SBujztRtyArHaZUqlL4IMCdyskYEYWQlbQkGJz4dE8-jluvr7VU7Od2mm4KvjHhVI4f0"
+setr ea_screenshotfield "files[]"
+
+
+# Easy Admin Permissions
+add_ace group.Staff-Team easyadmin.player.kick allow
+add_ace group.Staff-Team easyadmin.player.spectate allow
+add_ace group.Staff-Team easyadmin.player.teleport allow
+add_ace group.Staff-Team easyadmin.player.slap allow
+add_ace group.Staff-Team easyadmin.player.ban.temporary allow
+add_ace group.Staff-Team easyadmin.player.ban.permanent	allow
+add_ace group.Staff-Team easyadmin.player.reports.process allow
+add_ace group.Staff-Team easyadmin.player.reports.claim	allow
+add_ace group.Staff-Team easyadmin.player.reports.view allow
+add_ace group.Staff-Team easyadmin.player.ban.permanent	allow
+add_ace group.Staff-Team easyadmin.player.teleport.single allow
+add_ace group.Staff-Team easyadmin.player.freeze allow
+add_ace group.Staff-Team easyadmin.server.cleanup.cars allow
+add_ace group.Staff-Team easyadmin.server.cleanup.props allow
+add_ace group.Staff-Team easyadmin.server.cleanup.peds allow
+add_principal group.Administrator group.Staff-Team
+add_ace group.Administrator easyadmin.server.announce allow
+add_ace group.Administrator easyadmin.server.chat allow 
+add_ace group.Administrator easyadmin.player.ban.view allow
+add_ace group.Administrator easyadmin.player.spectate allow
+add_ace group.Administrator easyadmin.player.teleport.everyone allow
+add_ace group.Administrator easyadmin.player.warn allow
+add_ace group.Administrator easyadmin.player.screenshot	allow
+add_ace group.Staff-Team easyadmin.player.screenshot
+add_principal group.Senior-Administrator group.Administrator
+add_ace group.Senior-Administrator easyadmin.server.resources.start	allow
+add_ace group.Senior-Administrator easyadmin.server.resources.stop	allow
+add_ace group.Senior-Administrator easyadmin.anon allow
+add_principal group.Head-Administrator group.Senior-Administrator
+add_ace group.Community-Management easyadmin allow
+add_ace group.Owner easyadmin 
+
+# Misc Aces
+add_ace group.Community-Management Reticle allow
+add_ace group.Owner Reticle allow
+add_ace builtin.everyone ReticleStunGun allow
+add_ace group.Staff-Team "changeWeather" allow
+add_ace group.Staff-Team "changeTime" allow
+add_ace group.Staff-Team "freezeTime" allow
+add_ace group.Staff-Team command.weather allow
+add_ace group.Staff-Team command.time allow
+add_ace group.Staff-Team command.freezetime allow
+
+
+# Aces for vMenu
+add_ace group.Sheriff sem_intmenu.leo allow
+add_ace group.Pubcop sem_intmenu.leo allow
+add_ace group.Sheriff "vMenu.VehicleSpawner.Emergency" allow
+add_ace group.Sheriff "vMenu.PlayerOptions.MaxArmor" allow
+add_ace group.EMS "vMenu.VehicleSpawner.Emergency" allow
+add_ace group.Sheriff sem_intmenu.unjail allow
+add_ace group.Staff-Team Badssentials.Bypass.Revive allow
+add_ace group.Staff-Team Badssentials.AOP allow
+add_ace group.Staff-Team Badssentials.PeaceTime allow
+add_ace group.Staff-Team Badger-Priorities.Commands allow
+add_ace group.Staff-Team "vMenu.PlayerOptions.FastRun" allow
+add_ace group.Staff-Team "vMenu.PlayerOptions.FastSwim" allow
+add_ace group.Staff-Team "vMenu.PlayerOptions.Superjump" allow
+add_ace group.Staff-Team "vMenu.PlayerOptions.UnlimitedStamina" allow
+add_ace group.Staff-Team "vMenu.MiscSettings.OverheadNames" allow
+add_ace group.Staff-Team "vMenu.VehicleOptions.TorqueMultiplier" allow
+add_ace group.Staff-Team "vMenu.VehicleOptions.PowerMultiplier" allow
+add_ace group.Staff-Team "vMenu.MiscSettings.ClearArea" allow
+add_ace group.Staff-Team chat.clear allow
+add_ace group.Staff-Team allow
+add_ace group.Staff-Team allow
+add_ace group.Administrator Badssentials.Announce allow
+add_ace group.Administrator "vMenu.VehicleOptions.God" allow
+add_ace group.Senior-Administrator "vMenu.PlayerOptions.God" allow
+add_ace group.Senior-Administrator "vMenu.PlayerOptions.Invisible" allow
+add_ace group.Senior-Administrator "vMenu.MiscSettings.PlayerBlips" allow
+add_ace group.Senior-Administrator allow
+add_ace group.Management allow
+add_ace group.Owner "vMenu.VehicleSpawner.All" allow
+add_ace group.Community-Management "vMenu.VehicleSpawner.All" allow
+add_ace group.Owner "vMenu.MiscSettings.EntitySpawner" allow
+add_ace group.Owner allow
+
+# Aces for Fire 
+add_ace group.owner BadgerFires.Start allow
+add_ace group.Staff-Team BadgerFires.Start allow
+
+# Car Ace
+add_ace group.Administrator "vMenu.VehicleOptions.Repair" allow
+add_ace group.Senior-Administrator "vMenu.VehicleOptions.Repair" allow
+add_ace group.Community-Management "vMenu.VehicleOptions.Repair" allow
+add_ace group.Owner "vMenu.VehicleOptions.Repair" allow
+
+# Aces For doors
+add_ace group.Sheriff doorlocks.allow allow
+add_ace doorlocks.allow group.Pubcop allow 
+add_ace doorlocks.allow group.Community-Management allow 
+add_ace doorlocks.allow group.Owner allow 
+
+# Aces for guns
+add_ace group.Sheriff "vMenu.WeaponOptions.StunGun" allow
+add_ace group.Staff-Team "vMenu.WeaponOptions.StunGun" allow
+add_ace group.Community-Management "vMenu.WeaponOptions.All" allow
+add_ace group.Owner "vMenu.WeaponOptions.All" allow
+
+# Aces For FAA
+add_ace group.FAA "vMenu.VehicleSpawner.Helicopters" allow
+add_ace group.FAA "vMenu.VehicleSpawner.Planes" allow
+
+# Aces For Chatroles
+add_ace group.Staff-Team DiscordChatRoles.Access.Staff allow
+
+# Aces For DeathScript
+
+add_ace group.Staff-Team DeathScript.AdRev allow
+add_ace group.Staff-Team DeathScript.AdRes allow
+add_ace group.Staff-Team DeathScript.AdRevAll allow
+
+
+
+
+
+# You probably don't want to change these!
+# Only change them if you're using a server with multiple network interfaces.
+
+set sv_enforceGameBuild 2189
+exec permissions.cfg
+exec easyadmin_permissions.cfg
+
+# These resources will start by default.
+ensure .[DiscordPerms]
+ensure [gamemodes]
+ensure [Gameplay-Scripts]
+ensure [SADOJRP-Menu-Scripts]
+ensure [vehicles-scripts]
+ensure [gameplay]
+ensure [EUP]
+ensure [local]
+ensure [managers]
+ensure [sonorancad]
+ensure [system]
+ensure [weapons]
+ensure [Maps]
+
+
+
+# Staff Cars
+ensure [Staff-Vehicles]
+
+# Cars
+ensure [Civilian-Cars]
+ensure [Jack-Gang]
+
+# Maps
+ensure [cfx-gabz-package1]
+ensure [cfx-gabz-package2]
+
+# Emergency Cars and Liveries
+ensure [LEO-Fleet]
+ensure [Fire-EMS]
+
+# Discord Ace Perms (Ensured Above)
+
+
+add_ace group.allow sem_intmenu.leo allow
+add_ace group.Sheriff sem_intmenu.leo allow
+add_ace group.Sheriff sem_intmenu.unjail allow
+add_ace group.EMS sem_intmenu.fire allow
+add_ace group.Staff-Team Badssentials.AOP allow
+add_ace group.Staff-Team Badssentials.PeaceTime allow
+add_ace group.Staff-Team allow
+add_ace group.Owner allow
+
+# permissions for auto-updater (REQUIRED)
+add_ace resource.sonorancad command allow
+add_ace resource.sonoran_updatehelper command allow
+ 
+
+
+
+
+# This allows players to use scripthook based plugins such as lambda menu.
+# Set this to 0 to disallow scripthook.
+sv_scriptHookAllowed 0
+
+# Uncomment this to enable RCON. Make sure to change the password.
+rcon_password afd8232eda
+
+# A comma-separated list of tags for your server.
+# For example:
+# Or:
+
+# A valid locale identifier for your server's primary language.
+# For example "en-US", "fr-CA", "nl-NL", "de-DE", "en-GB", "pt-BR"
+# please DO replace root-AQ on the line ABOVE with a real language! :)
+
+
+# Set an optional server info and connecting banner image url.
+# Size doesn't matter, any banner sized image will be fine.
+sets banner_detail "https://cdn.discordapp.com/attachments/976889904845967440/1004506629389164574/banner1.png"
+sets banner_connecting "https://cdn.discordapp.com/attachments/976889904845967440/1004506629389164574/banner1.png"
+
+# Set your server's hostname
+sv_hostname "San Andreas Department Of Justice "
+
+# Nested configs!
+#exec server_internal.cfg
+
+# Loading a server icon (96x96 PNG file)
+load_server_icon zap96x96.png
+
+# convars which can be used in scripts
+set temp_convar "hey world!"
+
+# Uncomment this line if you do not want your server to be listed in the server browser.
+#sv_master1 ""
+
+# Want to only allow players authenticated with a third-party provider like Steam?
+# Don't forget Social Club is a third party provider too!
+#sv_authMaxVariance 1
+#sv_authMinTrust 5
+
+# Add system admins
+add_ace group.owner command allow 
+add_ace group.owner command.quit deny # but don't allow quit
+add_principal identifier.steam:110000137148641 group.admin
+add_principal identifier.steam:11000014717a575 group.admin 
+
+
+
+# Hide player endpoints in external log output.
+sv_endpointprivacy true
+
+
+
+exec easyadmin_permissions.cfg
+setr ea_LanguageName "en"
+set ea_enableCallAdminCommand "true"
+set ea_enableReportCommand "true"
+sets tags "roleplay, rp, gangs, cops, leo"
+#This is an official FiveM server hosted by ZAP-Hosting.com. You do not need to put a license key here.
+set steam_webApiKey "38435410B4F548D49AFA87935514D29D"
+set sv_UseDirectListing false
+sets locale "en-US"
+set sv_listingIPOverride "147.189.168.30"
+sets sv_projectName "San Andreas Customs Showcase Server"
+sets sv_projectDesc "Development, Showcase, Custom Scripts, Roleplay, Website"
+sv_licenseKey "cfxk_1F5VPH7ms1G9ywM3Wx9TO_1hEQsN"
